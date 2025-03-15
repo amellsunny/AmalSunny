@@ -107,3 +107,4 @@ Test Automation Engineering v2 • ISTQB (Ongoing)
 
 ## CONTACT
 
+email: amal.sunny@gmail.com

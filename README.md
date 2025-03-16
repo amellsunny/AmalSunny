@@ -34,7 +34,7 @@ Detail-oriented QA tester with 7 years of experience in manual, and automation t
 
 ## EXPERIENCE
 
-### Senior Test Engineer, Wipro Ltd 05/2021 - 01/2024
+### Senior Test Engineer, Wipro Ltd, 05/2021 - 01/2024
 ● Led manual testing efforts for telecom software applications while driving test automation initiatives.
 
 ● Design and execute test cases for complex telecom workflows, improving test coverage by 40%.
@@ -65,7 +65,7 @@ Detail-oriented QA tester with 7 years of experience in manual, and automation t
 
 ● Stayed up to date with industry trends and best practices in software testing and quality assurance.
 
-### Junior Test Engineer, Tech Mahindra Ltd 08/2013 - 05/2017
+### Junior Test Engineer, Tech Mahindra Ltd, 08/2013 - 05/2017
 ● Understand High level Design (HLD) for the System Requirement (SR) and Change Request (CR) and organize a walkthrough with the E2E designer for better understanding for test planning.
 
 ● Responsible for designing HLD and LLD for test designs based on the CR and SR requirements.
@@ -103,7 +103,7 @@ MBA Operations Management • APJ Abdul Kalam Technological University, India Ap
 Tosca Automation Specialist Level 1 • Tricentis July 2021
 Tosca Automation Specialist Level 2 • Tricentis July 2021
 IBM DevOps and Software Engineering • Coursera March 2024
-Test Automation Engineering v2 • ISTQB (Ongoing)
+Test Automation Engineering v2 (CTAL TAE V2) • ISTQB (Ongoing)
 
 ## CONTACT
 
